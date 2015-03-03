@@ -1,0 +1,22 @@
+{
+  "name": "node-spawn-util",
+  "version": "1.0.0",
+  "description": "util for spawn",
+  "main": "node-spawn-util.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/umezo/node-spawn-util.git"
+  },
+  "keywords": [
+    "spawn"
+  ],
+  "author": "umezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umezo/node-spawn-util/issues"
+  },
+  "homepage": "https://github.com/umezo/node-spawn-util"
+}
