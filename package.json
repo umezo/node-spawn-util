@@ -4,7 +4,7 @@
   "description": "util for spawn",
   "main": "node-spawn-util.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha test/*.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/umezo/node-spawn-util/issues"
   },
-  "homepage": "https://github.com/umezo/node-spawn-util"
+  "homepage": "https://github.com/umezo/node-spawn-util",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "~2.1.0"
+  }
 }
